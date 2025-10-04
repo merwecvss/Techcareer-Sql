@@ -25,7 +25,7 @@ Bu yapıyla birlikte tablolar arasında birincil ve yabancı anahtar ilişkileri
 Bir diğer konu da raporlama sorgularında ortaya çıktı. Bazı sorgularda sadece JOIN ve GROUP BY kullanmak yeterliydi ama HAVING kullanmadan belirli koşullara göre filtreleme yapmak eksik kaldı. Bunun da ilerleyen aşamalarda eklenmesi gerektiğini gördüm.
 
 ## Raporlama Sorguları
---
+---
 * En çok sipariş veren müşteriler
 * En çok satılan ürünler
 * En yüksek ciro yapan satıcılar
